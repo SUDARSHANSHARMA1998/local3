@@ -1,0 +1,14 @@
+id = 7d794aea-2e6c-4c61-8e25-828e648d43f9
+
+[relations]
+
+[relations.collections]
+rootDirectory = postman/collections
+files[] = {"id":"75df185c-70fe-4dad-9001-2985b4ed6dae","path":"latest_889219-75df185c-70fe-4dad-9001-2985b4ed6dae.json","metaData":{}}
+
+[relations.collections.metaData]
+
+[relations.apiDefinition]
+rootDirectory = postman/schemas
+
+[relations.apiDefinition.metaData]
